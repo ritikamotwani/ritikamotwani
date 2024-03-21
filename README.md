@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Ritika Motwani, a passionate Computer Science enthusiast with a focus on building scalable web applications and exploring data infrastructure. I was promoted to be the tech lead of the team in my previous company based on my performance and problem solving abilities. Currently pursuing my Master's in Computer Science from New York University, I'm excited about delving deeper into distributed systems and big data processing.
+
+
+I am currently learning CUDA, GPU and Multicore internals, Big data processing, Distributed systems and am looking for opportunities to collaborate on related projects. Please reach out incase you have any. My linkedin: https://www.linkedin.com/in/ritika-motwani-47b770131/
+
+
+
 <!--
 **ritikamotwani/ritikamotwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
