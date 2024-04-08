@@ -4,7 +4,7 @@ I'm Ritika Motwani 🐈, a passionate Computer Science enthusiast with a focus o
 
 I also have experience of building research prototypes from scratch and diving into new technologies. I have specifically helped with audio signal processing, transcriptions and diarizations at Princeton and NTU, Singapore. 🔭
 
-I am currently learning CUDA, GPU (https://github.com/GPU-Project/GPU-L2-Cache-Management) and Multicore internals, Big data processing, Distributed systems and am looking for opportunities to collaborate on related projects. Please reach out ⭐ incase you have any relevant projects where I can contribute. My linkedin: https://www.linkedin.com/in/ritika-motwani-47b770131/
+I am currently learning CUDA, GPU (https://github.com/GPU-Project/GPU-L2-Cache-Management) and Multicore internals, Big data processing, Distributed systems, Cloud Computing (https://github.com/sameer7483/ML-models-in-Kubernetes-in-IBM-GCP-and-AWS), Advanced Database Systems (https://github.com/ritikamotwani/Replicated-Concurrency-Control-and-Recovery-) and am looking for opportunities to collaborate on related projects. Please reach out ⭐ incase you have any relevant projects where I can contribute. My linkedin: https://www.linkedin.com/in/ritika-motwani-47b770131/
 
 
 
