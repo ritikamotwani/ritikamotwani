@@ -10,9 +10,10 @@ During my Masters I learnt a lot about
 - Distributed systems (https://github.com/ritikamotwani/Go-And-Distributed-Systems)
 - Cloud Computing (https://github.com/sameer7483/ML-models-in-Kubernetes-in-IBM-GCP-and-AWS)
 - Advanced Database Systems (https://github.com/ritikamotwani/Replicated-Concurrency-Control-and-Recovery-)
+- AI agentic Applications: I built a trip planner project with plan, stay, flights and shopping for the trip agents (https://github.com/ritikamotwani/Trip-Planner---Agentic-AI)
 
 
-I am looking for opportunities to collaborate on related projects (systems, infra, full-stack for AI applications). Please reach out ⭐ incase you have any relevant projects where I can contribute. My linkedin: https://www.linkedin.com/in/ritika-motwani-47b770131/
+I am looking for opportunities to collaborate on related projects (systems, infra, full-stack for AI applications/agents and their deployments). Please reach out ⭐ incase you have any relevant projects where I can contribute. My linkedin: https://www.linkedin.com/in/ritika-motwani-47b770131/
 
 
 
